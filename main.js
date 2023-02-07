@@ -128,7 +128,7 @@ if(e.shiftKey && keyPressed == '77')
 	}
 	if(keyPressed == '67') 
 	{
-		newImage("cloud.png");
+		newImage("cloud.jpg");
 		console.log("c");
 	}
 	
